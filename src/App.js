@@ -9,8 +9,12 @@ function Todo({ todo, index, completeTodo, removeTodo }) {
     >
       {todo.text}
       <div>
-        <button onClick={() => completeTodo(index)}>Complete</button>
-        <button onClick={() => removeTodo(index)}>Remove</button>
+        <button className="button" onClick={() => completeTodo(index)}>
+          Complete
+        </button>
+        <button className="button" onClick={() => removeTodo(index)}>
+          Remove
+        </button>
       </div>
     </div>
   );
@@ -26,7 +30,7 @@ function TodoForm({ addTodo }) {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
+    <form className="todo-form" onSubmit={handleSubmit}>
       <input
         type="text"
         className="input"
