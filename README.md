@@ -3,7 +3,7 @@
 A simple todo list app where hooks are used in functional components to manage state
 
 Below is a screenshot of the app.
-![app screenshot](./screenshot-react-hooks-todo-app.png)
+![app screenshot](./screenshot-app.png)
 
 ---
 
