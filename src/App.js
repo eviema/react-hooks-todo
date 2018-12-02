@@ -53,7 +53,7 @@ function App() {
       isCompleted: false
     },
     {
-      text: "Build really cook todo app",
+      text: "Build cool todo app",
       isCompleted: false
     }
   ]);
