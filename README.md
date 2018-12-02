@@ -2,7 +2,7 @@
 
 A simple todo list app where hooks are used in functional components to manage state
 
-Below is a screenshot of the app.
+Below is a screenshot of the app.  
 ![app screenshot](./screenshot-app.png)
 
 ---
