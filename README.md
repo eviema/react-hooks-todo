@@ -2,6 +2,9 @@
 
 A simple todo list app where hooks are used in functional components to manage state
 
+Below is a screenshot of the app.
+![app screenshot](./screenshot-react-hooks-todo-app.png)
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
